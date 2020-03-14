@@ -1,0 +1,2 @@
+rootProject.name='計時器app'
+include ':app'
